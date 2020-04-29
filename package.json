@@ -1,5 +1,6 @@
 {
     "name": "codelover",
+    "icon": "assets/icon.png",
     "displayName": "c<3delover",
     "description": "c<3delover is a vscode theme for all codelovers.",
     "publisher": "veasnawt",
@@ -18,5 +19,9 @@
                 "path": "./themes/c3delover-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/veasnawt/codelover.git"
     }
 }
