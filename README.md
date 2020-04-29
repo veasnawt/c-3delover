@@ -1,3 +1,8 @@
-# README
+# c<3delover
 
-![codelover](https://github.com/veasnawt/codelover/codelover.png)
+
+
+![Alt text](assets/codelover.png?raw=true "codelover")
+
+### How to install:
+$ ext install veasnawt.codelover
