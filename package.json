@@ -1,0 +1,22 @@
+{
+    "name": "codelover",
+    "displayName": "c<3delover",
+    "description": "c<3delover is a vscode theme for all codelovers.",
+    "publisher": "veasnawt",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "c<3delover",
+                "uiTheme": "vs-dark",
+                "path": "./themes/c3delover-color-theme.json"
+            }
+        ]
+    }
+}
