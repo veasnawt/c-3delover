@@ -1,3 +1,3 @@
 # README
 
-![alt text](/assets/codelover.png)
+![alt text](https://github.com/veasnawt/codelover/blob/codelover/assets/codelover.png)
